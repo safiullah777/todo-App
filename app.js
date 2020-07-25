@@ -35,7 +35,7 @@ else{
 }
 function deleteAll(){
     counter=0;
-    // b.innerHTML="";
+    b.innerHTML="";
     document.getElementById('count').innerHTML=`There are ${counter} todos.`
     
 
